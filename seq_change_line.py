@@ -27,8 +27,3 @@ string_slice.append(last_line_slice)
 
 string_sliced = ('\n').join(string_slice)
 print(string_sliced)
-
-#
-
-
-# %%
